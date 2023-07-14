@@ -8,3 +8,4 @@
 Justnfaith/Justnfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+online media consulting. development of my business website and creating Android and Google apps
